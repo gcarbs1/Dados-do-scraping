@@ -1,0 +1,29 @@
+Nome do jogador,Posição do jogador,Gols sofridos,Gols sofridos por 90 minutos,Chutes a gol sofridos,Defesas,Porcentagem de defesas,Partidas sem gols sofridos,Porcentagem de partidas sem gols sofridos,Pênaltis batidos contra o goleiro,Gols de pênalti convertidos contra o goleiro,Chutes de pênaltis salvos,Chutes de pênaltis perdidos,Porcentagem de defesas em pênaltis,Gols sofridos de tiros diretos,Gols sofridos de escanteio,Probabilidade de Gols Após Chutes Defendidos (PSxG - Gols Esperados Pós Chute),Probabilidade de Gols em Chutes no Alvo (PSxG por Chute no Alvo),Eficiência do Goleiro: Gols Esperados Menos Gols Sofridos (PSxG-GA),Eficiência do Goleiro por 90 Minutos: Gols Esperados Menos Gols Sofridos (PSxG-GA/90),Lançamentos concluídos (maiores que 40 jardas),Lançamentos tentados (maiores que 40 jardas),Porcentagem de lançamentos concluídos (maiores que 40 jardas),Passes Tentados pelo Goleiro (Exceto Tiros de Meta),Lançamentos de Mão Tentados pelo Goleiro,Porcentagem de Passes Lançados (Exceto Tiros de Meta),Comprimento Médio dos Passes (Exceto Tiros de Meta),Tiros de Meta Tentados,Porcentagem de Tiros de Meta Lançados,Comprimento Médio dos Tiros de Meta,Cruzamentos Enfrentados,Cruzamentos Interceptados pelo Goleiro,Porcentagem de Cruzamentos Interceptados pelo Goleiro,Ações Defensivas Fora da Área de Pênalti,Ações Defensivas Fora da Área de Pênalti por 90 Minutos,Distância Média das Ações Defensivas
+Carlos Acevedo,Goleiro,16,1.78,55,39,72.7,1,11.1,1,1,0,0,0.0,0,1,14.9,0.26,-1.1,-0.13,44,124,35.5,197,28,37.1,35.0,103,49.5,39.3,152,2,1.3,4,0.44,14.2
+Guillermo Allison,Goleiro,18,1.64,56,36,75.0,3,27.3,6,4,2,0,33.3,0,0,19.1,0.25,1.1,0.1,73,205,35.6,196,31,49.0,40.7,144,75.7,56.0,215,9,4.2,6,0.55,12.3
+Esteban Andrada,Goleiro,13,1.18,45,32,75.6,4,36.4,2,2,0,0,0.0,0,2,13.7,0.28,0.7,0.07,61,165,37.0,373,56,34.3,34.2,67,55.2,45.7,138,20,14.5,8,0.73,12.4
+Luis Ángel Malagón,Goleiro,10,1.11,30,20,66.7,2,22.2,0,0,0,0,0.0,0,0,8.1,0.27,-1.9,-0.21,32,86,37.2,221,29,25.8,32.6,83,34.9,35.3,107,2,1.9,7,0.78,12.9
+José Antonio Rodríguez,Goleiro,12,1.71,36,25,66.7,1,14.3,0,0,0,0,0.0,0,3,10.4,0.3,-0.6,-0.09,30,84,35.7,344,28,22.1,29.9,27,29.6,37.7,88,7,8.0,11,1.57,16.8
+Alfonso Blanco Antúnez,Goleiro,16,1.6,54,40,74.1,2,20.0,2,2,0,0,0.0,0,2,14.2,0.23,0.2,0.02,41,101,40.6,288,54,25.7,31.2,69,39.1,37.0,132,4,3.0,8,0.8,14.0
+José Corona,Goleiro,4,1.33,15,11,73.3,0,0.0,0,0,0,0,0.0,0,1,5.3,0.35,1.3,0.42,12,31,38.7,123,20,19.5,27.5,17,41.2,34.9,38,0,0.0,0,0.0,8.0
+Rodolfo Cota,Goleiro,2,2.0,5,3,60.0,0,0.0,0,0,0,0,0.0,0,0,1.3,0.28,-0.7,-0.73,2,4,50.0,21,4,14.3,27.3,5,20.0,14.4,9,1,11.1,0,0.0,8.3
+Benny Díaz,Goleiro,14,2.33,34,20,70.6,1,16.7,4,4,0,0,0.0,0,2,12.5,0.26,-1.5,-0.25,23,70,32.9,150,34,25.3,29.5,55,58.2,47.0,109,5,4.6,10,1.67,16.5
+Carlos Felipe Rodríguez,Goleiro,1,0.33,10,9,90.0,2,66.7,0,0,0,0,0.0,0,1,1.6,0.16,0.6,0.19,6,23,26.1,56,12,28.6,29.2,19,36.8,32.5,41,1,2.4,1,0.33,12.3
+Hugo González Durán,Goleiro,11,1.16,37,26,73.0,3,30.0,1,1,0,0,0.0,0,1,10.2,0.25,-0.8,-0.08,35,80,43.8,205,40,26.3,31.2,61,42.6,40.1,88,6,6.8,11,1.16,15.9
+Ricardo Gutiérrez,Goleiro,0,0.0,5,5,100.0,0,0.0,0,0,0,0,0.0,0,0,0.7,0.13,0.7,1.3,2,5,40.0,12,1,33.3,32.2,3,33.3,34.3,4,0,0.0,0,0.0,10.0
+Nahuel Guzmán,Goleiro,3,0.75,10,7,70.0,2,50.0,0,0,0,0,0.0,0,1,3.4,0.34,0.4,0.1,17,32,53.1,104,9,27.9,30.1,19,15.8,27.5,41,2,4.9,8,2.0,18.8
+Héctor Holguín,Goleiro,1,1.0,5,4,100.0,0,0.0,1,1,0,0,0.0,0,0,1.6,0.14,0.6,0.62,2,7,28.6,36,5,8.3,21.9,10,40.0,38.6,22,0,0.0,0,0.0,11.3
+Miguel Jiménez Ponce,Goleiro,11,1.57,34,23,70.6,1,14.3,1,1,0,0,0.0,0,5,10.0,0.27,-1.0,-0.14,38,137,27.7,124,11,61.3,45.0,74,82.4,60.4,155,4,2.6,2,0.29,10.5
+Julio José González,Goleiro,10,1.0,35,26,77.1,4,40.0,2,2,0,0,0.0,0,1,9.8,0.23,0.8,0.08,44,124,35.5,247,47,32.4,31.7,81,54.3,47.8,96,4,4.2,24,2.4,19.7
+Sebastián Jurado,Goleiro,9,2.25,17,9,47.1,0,0.0,0,0,0,0,0.0,0,2,6.8,0.4,-1.2,-0.29,9,35,25.7,65,10,32.3,32.0,40,35.0,36.8,54,1,1.9,2,0.5,14.8
+Cesar López,Goleiro,0,0.0,1,1,100.0,1,100.0,0,0,0,0,0.0,0,0,0.2,0.21,0.2,0.21,3,16,18.8,37,7,32.4,34.8,10,40.0,42.8,11,1,9.1,2,2.0,16.6
+Kevin Mier,Goleiro,8,0.8,28,21,71.4,5,50.0,0,0,0,0,0.0,0,3,8.4,0.3,1.4,0.14,34,82,41.5,362,28,14.4,26.0,76,39.5,38.8,94,2,2.1,15,1.5,17.2
+Carlos Moreno,Goleiro,17,1.7,48,31,68.8,2,20.0,2,2,0,0,0.0,0,2,15.1,0.29,-1.9,-0.19,64,149,43.0,213,48,37.1,35.7,105,66.7,50.8,137,8,5.8,11,1.1,13.9
+José Rangel Aguilar,Goleiro,8,0.8,35,26,80.0,5,50.0,2,1,1,0,50.0,0,1,10.8,0.26,2.8,0.28,52,134,38.8,333,55,27.9,32.0,79,51.9,44.3,121,12,9.9,20,2.0,18.0
+Jesús Rodríguez,Goleiro,8,2.0,20,12,60.0,1,25.0,0,0,0,0,0.0,0,1,8.0,0.4,0.0,0.01,21,41,51.2,123,18,22.8,29.6,38,34.2,37.6,48,4,8.3,4,1.0,14.3
+Andrés Sánchez,Goleiro,13,1.3,42,28,71.4,0,0.0,2,1,1,0,50.0,0,2,10.5,0.2,-2.5,-0.25,31,97,32.0,263,35,24.3,30.7,82,40.2,37.2,125,7,5.6,7,0.7,12.6
+José Santiago Hernández,Goleiro,3,1.0,6,3,66.7,1,33.3,1,1,0,0,0.0,0,0,2.5,0.25,-0.5,-0.18,10,27,37.0,66,9,33.3,32.4,14,35.7,36.9,24,1,4.2,2,0.67,17.8
+Fernando Tapia,Goleiro,2,0.67,17,15,88.2,1,33.3,0,0,0,0,0.0,0,0,3.0,0.19,1.0,0.34,12,35,34.3,68,14,26.5,32.6,36,47.2,43.9,52,2,3.8,5,1.67,18.9
+Ezequiel Unsain,Goleiro,8,0.8,38,30,84.2,4,40.0,2,2,0,0,0.0,0,0,8.6,0.17,0.6,0.06,68,185,36.8,191,27,51.3,44.2,108,80.6,60.0,193,8,4.1,1,0.1,8.8
+Camilo Vargas,Goleiro,12,1.71,31,18,61.3,1,14.3,1,0,1,0,100.0,0,0,8.6,0.27,-3.4,-0.49,28,97,28.9,248,35,28.2,31.7,51,52.9,45.4,87,4,4.6,11,1.57,17.7
+Tiago Volpi,Goleiro,10,1.0,44,34,79.5,3,30.0,1,1,0,0,0.0,0,0,11.5,0.24,1.5,0.15,59,142,41.5,361,33,27.7,33.5,70,60.0,52.2,136,9,6.6,16,1.6,16.4
